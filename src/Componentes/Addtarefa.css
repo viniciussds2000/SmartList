@@ -1,0 +1,22 @@
+.add-tarefa-container {
+    margin: 15px 0;
+    width: 100%;
+    display: flex;
+}
+
+.add-tarefa-input{
+    height: 40px;
+    margin: 0 15px 10px 15px;
+    padding: 0 10px;
+    border-radius: 5px;
+    border: white;
+    flex: 2;
+    background-color: white;
+    color: black;
+    font-size: 16px;
+}
+
+.add-tarefa-container-botão{
+    margin: 0 15px 0 10px ;
+    flex: 1;
+}

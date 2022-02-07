@@ -1,0 +1,25 @@
+.tarefa-conteiner {
+    margin: 8px 0;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.tarefa-title{
+    cursor:pointer;
+}
+
+.del-tarefa-botao,
+.info-tarefa-botao{
+    background-color: #131524;
+    border: none;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    margin: 0 5px;
+
+}
+

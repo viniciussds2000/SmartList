@@ -1,0 +1,28 @@
+.Infotarefa-container{
+    background-color: #444;
+    margin: 20px;
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    border-radius: 5px;
+
+}
+
+
+h2{
+    font-size: 2rem;
+    margin-bottom: 15px;
+    
+}
+
+.botao-voltar{
+    width: 30%;
+    margin: 5px 20px;
+}
+
+textarea{
+    text-align: left;
+    padding-left:0.5em;
+    height: 5em;
+}

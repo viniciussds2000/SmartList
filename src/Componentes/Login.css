@@ -1,0 +1,38 @@
+.login-container{
+    background-color: #16192b;
+    width: 300px;
+    margin: auto;
+    padding: 20px 30px;
+    border-radius: 20px;
+    text-align: center;
+    border: 2px solid #6b3273;
+
+    
+}
+form{
+    margin-top: 20px;
+    margin-bottom: 30px;    
+}
+
+label,input{
+    display: block;
+    width: 100%;
+    text-align: left;
+}
+label{
+    font-weight: bold;
+}
+
+.input{
+    border-bottom: 3px solid white;
+    font-size: 1rem;
+}
+input:focus{
+    border-bottom: 5px solid #6b3273;
+}
+.botao-login,
+.botao-cadastro{
+    margin-top: 20px;
+    width: 100%;
+    align-content: center;
+}

@@ -1,0 +1,11 @@
+.container {
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 5px;
+    color: white;
+}
+.borda{
+    border: 2px solid #6b3273;
+    padding: 5px;
+    
+}
