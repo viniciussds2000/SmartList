@@ -1,0 +1,2 @@
+# SmartList
+Um aplicativo reativo que buscar auxiliar e facilitar a vida dos usuarios durante o horario de trabalho ou dia-dia. O usuario consegue adicionar itens (tarefas, itens a comprar no mercado ou alguma pensamento e etc...) terá a opção de colocar descrição e prioridade em cada item de forma simples e intuitiva. Utilizando o ReactJS e a Nuvem o usuário vai ser capaz de acessar essa mesma lista por meio de qualquer outro dispositivo com acesso a internet.
